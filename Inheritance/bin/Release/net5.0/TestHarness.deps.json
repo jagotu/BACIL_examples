@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TestHarness/1.0.0": {
+        "dependencies": {
+          "BACILHelpers": "1.0.0"
+        },
+        "runtime": {
+          "TestHarness.dll": {}
+        }
+      },
+      "BACILHelpers/1.0.0": {
+        "runtime": {
+          "BACILHelpers.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TestHarness/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BACILHelpers/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
